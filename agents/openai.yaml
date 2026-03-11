@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Bundle"
+  short_description: "Build an implementation-ready bundle with only the useful artifacts"
+  default_prompt: "Use $spec-bundle to turn this PRD or raw spec into an implementation-ready bundle with only the contracts, schema, tests, and architecture artifacts that reduce ambiguity."

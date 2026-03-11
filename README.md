@@ -10,12 +10,14 @@ The point is simple:
 This repo gives you both:
 
 - a reusable `spec-bundle` skill
+- `agents/openai.yaml` metadata for UI skill surfaces
 - a scaffold script
 - a compact set of templates for the artifacts that usually matter
 
 ## What is inside
 
 - `SKILL.md` — the skill itself
+- `agents/openai.yaml` — skill metadata for UI surfaces
 - `scripts/init_bundle.py` — scaffold a new bundle folder
 - `references/bundle-shape.md` — when each artifact is worth keeping
 - `assets/templates/` — starter files for:
